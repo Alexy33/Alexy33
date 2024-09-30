@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexy33" alt="alexy33" /></a> </p>
 
-- 🔭 Je travail actuellement sur : **mon jeu 2D / mon bac**
+- 🔭 Je travail actuellement sur : **Ma piscine**
 
-- 🌱 J'apprend actuellement : **Godot / Unity (C#, C++)**
+- 🌱 J'apprend actuellement : **Le C**
 
 - 👨‍💻 Toute ma description est disponible sur mon portfolio : [Soon](Soon)
 
