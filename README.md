@@ -5,11 +5,13 @@
   </a>
   <hr style="width:70%; border:2px solid #0969DA; border-radius:5px; margin:30px auto;">
   <h3><a href="https://portfolio-alexy.vercel.app">Découvrir mon portfolio</a></h3>  
-  <a href="https://www.linkedin.com/in/alexy-canu-006aa1344/" style="display:inline-block; background-color:#0077B5; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold; margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" style="vertical-align:middle; margin-right:10px;"/> LinkedIn
-  </a> 
-
-  <a href="https://www.instagram.com/alexy_cn" style="display:inline-block; background-color:#E4405F; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="20" width="20" style="vertical-align:middle; margin-right:10px;"/> Instagram
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alexy-canu-006aa1344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="40"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/alexy_cn">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150" height="40"/>
+    </a>
+  </div>
 </div>
