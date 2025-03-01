@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexy33&label=Profile%20views&color=880eb4&style=flat" alt="alexy33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexy33" alt="alexy33" /></a> </p>
-
-- 🔭 Je travail actuellement sur : **Ma piscine**
+- 🔭 Je travail actuellement sur : **Mes projets de première année**
 
 - 🌱 J'apprend actuellement : **Le C**
 
-- 👨‍💻 Toute ma description est disponible sur mon portfolio : [Soon](Soon)
+- 👨‍💻 Toute ma description est disponible sur mon portfolio : https://portfolio-alexy.vercel.app
 
-- 📫 Comment me contacter : **canualexy@gmail.com**
+- 📫 Comment me contacter : **canualexy@gmail.com / alexy.canu@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
