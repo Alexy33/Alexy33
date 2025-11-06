@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Alexy Canu</h1>
+  <h1>Arcony</h1>
   <a href="https://alexy33.github.io">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=2500&color=0969DA&center=true&vCenter=true&width=600&lines=Développeur+Junior;%C3%89tudiant+%C3%A0+Epitech+Bordeaux;D%C3%A9veloppeur+C%2C+Python%2C+Web&cursor=|" alt="Typing SVG" />
   </a>
